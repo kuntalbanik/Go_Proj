@@ -3,6 +3,8 @@ package myutil
 
 import "fmt"
 
+var PersonName = "John Millar"
+
 func PrintMessage(message string) {
 	fmt.Println(message)
 }
